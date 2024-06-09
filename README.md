@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mobile app
 - 💞️ I’m looking to collaborate on making new products
-- 📫 Reach me: facebook.com/minhcanh.198
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/canhcs/)
 
 <!---
 minhcanh198/minhcanh198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
